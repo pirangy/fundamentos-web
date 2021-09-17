@@ -1,0 +1,44 @@
+/*
+Estilos da página index.html
+*/
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.mbottom-30{
+    margin-bottom: 100px;
+}
+
+.imgbr-50{
+    border-radius: 50%;
+}
+
+.sz-img{
+
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+
+}
+
+.h1{
+    font-family: montserrat;
+}
+
+.h2{
+    font-family: montserrat;
+}
+
+.p{
+    font-family: montserrat;
+    text-align: start;
+}
+
+.p-intro{
+    font-family: montserrat;
+}
