@@ -2,6 +2,15 @@
 Estilos da página index.html
 */
 
+.fundo{
+    background-color: #222f3e;
+}
+
+.menu{
+    font-family: montserrat;
+    color: #b2bec3;
+}
+
 .container{
     display: flex;
     flex-flow: row;
@@ -28,17 +37,24 @@ Estilos da página index.html
 
 .h1{
     font-family: montserrat;
+    color: #95a5a6;
+    color: #dfe6e9;
 }
 
 .h2{
     font-family: montserrat;
+    color: #b2bec3;
+    color: #dfe6e9;
 }
 
 .p{
     font-family: montserrat;
     text-align: start;
+    color: #dfe6e9;
+    color: #95a5a6;
 }
 
 .p-intro{
     font-family: montserrat;
+    color: #95a5a6;
 }
